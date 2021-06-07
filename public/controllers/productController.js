@@ -25,6 +25,6 @@ function getProductFromForm(){
 
 function getPage(){
     let product = getProductFromForm();
-    return new PageProduct(pageNumber = 1, pageSize = 3, product);
+    return new PageProduct(pageNumber = 1, pageSize = 10, product);
 }
 
