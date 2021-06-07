@@ -1,4 +1,4 @@
-# Applicación frontent Productos Pemex
+# Applicación frontend Productos Pemex
 
 El proyecto se realizó con express, ejs, jquery, boostrap y una plantilla.
 
